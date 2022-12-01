@@ -1,0 +1,22 @@
+---
+title: "Temperature and crime: what makes us lose control?"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+# Introduction
+
+![](https://assets1.cbsnewsstatic.com/hub/i/2012/07/06/b8381864-a644-11e2-a3f0-029118418759/1140408.jpg)
+
+# Dataset
+
+# Methods
+
+# Website Overview
+
+# Results
+
+# Discussion
